@@ -8,6 +8,6 @@
 
 - Download VSCode Extensions (optional)
 
-- Sign the handbook in Google Forms (https://forms.gle/c99kHeR5RJx9SmZV9)
+- Sign the handbook in Google Forms (https://forms.gle/XUt5Wsnq1qzHMWjc8)
 
 - Review anything from today and ask questions

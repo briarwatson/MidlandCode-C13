@@ -5,4 +5,4 @@
 - Create GitHub account (https://github.com)
     + I would recommend not using your Midland email, and using your full name in lowercase letters for your username (ex. justinluce)
 
-- Join Slack (Link in Zoom)
+- Join Slack
