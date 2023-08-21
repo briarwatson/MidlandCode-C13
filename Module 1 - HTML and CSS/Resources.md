@@ -37,7 +37,6 @@ https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf
 - ES7+ React/Redux/React-Native Snippets (dsznajder)
 - JavaScript (ES6) code snippets (charalampos karypidis)
 - JavaScript Debugger (Nightly) (Microsoft)
-- Live Share (Microsoft)
 - Prettier - Code Formatter (Prettier)
 - Todo Tree (Gruntfuggly)
 
