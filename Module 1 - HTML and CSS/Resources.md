@@ -1,3 +1,5 @@
+To view this file as a Markdown file, hold down CTRL, Shift, and press V
+
 ## HTML/CSS Resources
 
 - https://www.w3schools.com
@@ -15,6 +17,9 @@
 ## General
 
 - https://www.stackoverflow.com
+
+- https://chat.openai.com
+    - Keep in mind not to believe everything ChatGPT says
 
 - Often, just Googling the error/problem is the best method
 
