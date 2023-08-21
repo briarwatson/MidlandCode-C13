@@ -1,4 +1,8 @@
-## Adding Local Respository to Existing GitHub Repository
+## Cloning a Repository
+
+- git clone URL
+
+## Adding Local Files to Existing GitHub Repository
 
 - git init -b main
 - git add .
@@ -11,10 +15,6 @@
 - git add .
 - git commit -m "commit message"
 - git push remote_repository_name branch_name
-
-## Cloning a Repository
-
-- git clone URL
 
 ## Getting Updates from Remote Repository
 
