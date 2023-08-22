@@ -1,11 +1,15 @@
 ## Check if git is installed
 
 - git -v
+
+## Add your email and username to VSCode
+- git config --global user.name "Your username"
+- git config --global user.email "email@email.com"
 ## Cloning a Repository
 
 - git clone URL
 - cd repositoryName
-- code .
+- Open the folder up in a new Visual Studio window
 ## Adding Local Files to Existing GitHub Repository
 
 - git init -b main
