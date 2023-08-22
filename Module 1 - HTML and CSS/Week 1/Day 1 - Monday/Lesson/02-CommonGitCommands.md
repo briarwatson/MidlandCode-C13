@@ -1,7 +1,11 @@
+## Check if git is installed
+
+- git -v
 ## Cloning a Repository
 
 - git clone URL
-
+- cd repositoryName
+- code .
 ## Adding Local Files to Existing GitHub Repository
 
 - git init -b main
@@ -28,3 +32,6 @@
 ## Removing a Remote Repository
 
 - git remote rm remote_repository_name
+
+## Open the terminal
+- CTRL and pressing tilde (button to the left of the 1 key on the top row)
