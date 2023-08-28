@@ -7,5 +7,3 @@ We will be utilizing the `layoutPractice.jpg` file as a starting point to create
 - An image in the footer is not necessary but if you do not use one, think about how you would get the text to appear above the image.
 
 ![layoutPractice.JPG](layoutPractice.JPG)
-
-## Don't worry, we will also be working on this tomorrow!
