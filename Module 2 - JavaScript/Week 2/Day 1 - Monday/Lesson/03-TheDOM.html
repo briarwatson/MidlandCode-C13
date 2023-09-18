@@ -78,19 +78,19 @@
       //So What can we do now? Let's take a look!
 
       function changeColors() {
-        const randomColor = () => Math.floor(Math.random() * 256);
+        function randomColor() {
+          // This will generate a random number between 0 255
+          Math.floor(Math.random() * 256);
+        }
 
+        // divs = [element1, element2, element3]
         let divs = document.getElementsByClassName("some-div");
         for (let i = 0; i < divs.length; i++) {
           divs[i].style.backgroundColor = 
           `rgb(${randomColor()}, ${randomColor()}, ${randomColor()})`;
+          // rgb(156, 28, 74)
         }
       }
-
-      // id of divID1
-      let id = "divID1";
-      let div = document.getElementById(id);
-      div.style.height = "200px";
     </script>
   </body>
 </html>
