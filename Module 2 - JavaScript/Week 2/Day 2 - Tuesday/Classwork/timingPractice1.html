@@ -30,6 +30,23 @@
       //!   - Remove the class with the green background and add one with a red background.
       //!   - The timer should also stop counting down.
       
+      const timeLimit = parseInt(prompt("Enter a time limit in seconds"));
+      const timer = document.getElementsById("clock");
+
+      let timeRemaining = timeLimit;
+      timer.innerText
+
+      const countdown = serInterval(() => {
+        timeRemaining--;
+        timer.innerText = timeRemaining;
+        if (timeRemaining === 0) {
+          clearInterval(countdown);
+          timer.classList.replace("green", "red");
+          timer.innerText = "";
+        }
+      }, 1000)
+
+
     </script>
   </body>
 </html>
